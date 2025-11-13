@@ -1,16 +1,20 @@
-## Hi there 👋
+# About Me
 
-<!--
-**jsjoblom79/jsjoblom79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Name:** Justin (People who know me call me Gus)  
 
-Here are some ideas to get you started:
+## Who I Am
+I focus on practical problem-solving across technology and data domains — blending systems knowledge, security principles, and software development for efficient, maintainable results.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I’m Working On
+- Building applications that process and analyze data efficiently  
+- Developing SQL Server–based solutions for data tracking and reporting  
+- Writing about cybersecurity policy and best practices  
+
+## Tools I Use
+- **Languages:** C#, SQL, Python  
+- **Frameworks:** .NET 8, Django  
+- **Databases:** Microsoft SQL Server, IBM i DB2, Intersystems, Postgresql  
+- **Other:** PowerShell, Markdown, Git  
+
+
+
