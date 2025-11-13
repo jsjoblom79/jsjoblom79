@@ -1,20 +1,23 @@
-# About Me
+# 👋 Hi, I'm Justin Sjoblom
 
-**Name:** Justin (People who know me call me Gus)  
+## 🧠 Who I Am
+I'm an IT Supervisor and manager with a background in software development and database administration. I enjoy designing efficient systems, leading technical teams, and building applications that solve real-world problems.
 
-## Who I Am
-I focus on practical problem-solving across technology and data domains — blending systems knowledge, security principles, and software development for efficient, maintainable results.
+## 🚧 What I'm Working On
+- Developing **DMV+**, a progressive web app that helps new drivers track and verify required driving hours.  
+- Maintaining and expanding **WayBeyond**, a WPF-based data processing app.  
+- Building **Dockerized ASP.NET and Django applications** for web and API development.  
+- Creating modern, mobile-friendly websites and exploring **home lab automation** projects.
 
-## What I’m Working On
-- Building applications that process and analyze data efficiently  
-- Developing SQL Server–based solutions for data tracking and reporting  
-- Writing about cybersecurity policy and best practices  
+## 🛠️ Tools & Technologies
+**Languages:** C#, Python (Django), Java, PHP, SQL (MySQL, SQLite, SQL Server)  
+**Frameworks:** .NET, ASP.NET Core, Entity Framework, WPF, Bootstrap, Docker  
+**Platforms:** IBM i (AS/400), Linux, Windows Server  
+**Other:** WordPress, Cloudflare, Visual Studio, VS Code, Notion  
 
-## Tools I Use
-- **Languages:** C#, SQL, Python  
-- **Frameworks:** .NET 8, Django  
-- **Databases:** Microsoft SQL Server, IBM i DB2, Intersystems, Postgresql  
-- **Other:** PowerShell, Markdown, Git  
+## 📫 How to Reach Me 
+**Website:** [https://scuzemeforlivin.com](https://scuzemeforlivin.com)  
+**LinkedIn:** [https://www.linkedin.com/in/jsjoblom79/](https://www.linkedin.com/in/jsjoblom79/)
 
 
 
